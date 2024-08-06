@@ -1,4 +1,3 @@
-// src/App.js
 import React from 'react';
 import Sidebar from './components/Sidebar';
 import Dashboard from './components/Dashboard';
